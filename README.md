@@ -19,5 +19,5 @@ Run the code via the 'jupyter notebook' command in the root directory. install j
 
 ## Credits
 
-Credits for this code go to [shreyas](https://github.com/Shreyas3108/house-price-prediction/blob/master/housesales.ipynb) i've merely created a wrapper to get people started. 
+Credits for this code go to yoututbe andd other sources 
 
