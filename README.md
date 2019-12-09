@@ -1,10 +1,13 @@
 # math_of_machine_learning
-This is the code for "Mathematcs of Machine Learning" by Siraj Raval on Youtube 
+This is the code for "Mathematcs in Machine Learning" by Siva Arwin 
 
 
 ## Coding Challenge - Due date, March 23, 2018 
 
-Build your own regression model to make a predict. Bonus points for 1) a cool dataset or idea 2) for building it using pure numpy 3) good documentation Post github links in the comment section. Good luck!
+Build your own regression model to make a predict. Bonus points for
+1) a cool dataset or idea 
+2) for building it using pure numpy 
+3) good documentation Post github links in the comment section. Good luck!
 
 
 
