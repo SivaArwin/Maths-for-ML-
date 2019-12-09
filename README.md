@@ -1,6 +1,17 @@
 # math_of_machine_learning
 This is the code for "Mathematcs in Machine Learning" by Siva Arwin 
 
+# Machine Learning
+
+Linear and Logistic Regression
+SVM and Trees
+Bayesian Methods and Text Data
+Unsupervised Learning
+Capstone Project
+
+# Top Skills You Will Learn: 
+
+Python Data Science Stack, Data Wrangling, Exploratory Data Analysis, Data Visualisation, Statistical Inference, Data Science at Scale, Machine Learning Specialization
 
 ## Coding Challenge - Due date, March 23, 2018 
 
@@ -14,7 +25,7 @@ Build your own regression model to make a predict. Bonus points for
 
 ## Overview 
 
-This is the code for [this](https://youtu.be/8onB7rPG4Pk) video on Youtube by Siraj Raval about the math of ML. This code uses linear regression to predict housing prices in NYC. 
+This will help you to feed ur curiosity 
 
 ## Instructions
 
